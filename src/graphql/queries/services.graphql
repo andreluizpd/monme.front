@@ -1,0 +1,10 @@
+query Services {
+  services {
+    id
+    createdAt
+    updatedAt
+    description
+    price
+    title
+  }
+}
